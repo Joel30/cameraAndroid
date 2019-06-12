@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Insertar-Cargar_Imagen</string>
+    <string name="btn_insert">Insertar Imagen</string>
+    <string name="btn_load">Cargar Imagen</string>
+    <string name="txt_view">Dirección de La Imagen</string>
+</resources>
